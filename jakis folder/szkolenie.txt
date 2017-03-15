@@ -1,3 +1,6 @@
-temat: kontrola wersji
+﻿temat: kontrola wersji
 
-wszystko co trzeba wiedzieć
+wszystko co trzeba wiedzieć lub ciekawsze rzeczy
+
+
+tutaj jest zmiana
